@@ -6,6 +6,6 @@ for any question/ suggestion, do not hesitate to contact with me.
 
 
 
-# Donation Button
+# Donate Me!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/pools/c/8xexZ0iSjL)
